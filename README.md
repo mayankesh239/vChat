@@ -18,7 +18,7 @@ The techs used in this are:
 <!-- USAGE EXAMPLES -->
 ## Usage
 https://user-images.githubusercontent.com/77605686/132216076-47a6ae24-c40c-48bd-8ba4-dc69b3a6a4c8.mp4
-
+## node index.js on html website
 
 <!-- CONTRIBUTING -->
 ## Contributing
